@@ -1,0 +1,21 @@
+1. Fungsi ORM ?
+
+Database atau DBMS akan disambungkan dengan Node.JS menggunakan adapter, salah satu adapter adalah sequelize.
+Layaknya google translate, adapter mengubah bahasa pemograman JavaScript menjadi bahasa SQL sehingga dapat terbaca.
+Sequelize selain menghubungkan juga berguna sebagai mapping (pemetaan) kedalam setiap database sehingga disebut sebagai ORM (Object Relational Mapping).
+ORM berfungsi sebagai penghubung kedua sistem yang berbeda dalam membuat aplikasi 
+
+2. Apa itu OOP (Object Oriented Program) ?
+
+
+3. Perbedaan Object model dan Class (OOP) ?
+
+4. Apa itu API ?
+
+API adalah (Application Program Interface) kumpuluan program untuk berkomunikasi satu sama lain.
+API dibuat di server sehingga client dapat berkomunikasi dengan server.
+Jenis-jenis API bermacam-macam salah satunya Restful API,
+Restful API adalah kumpulan aturan yang harus diikuti oleh developer dalam membuat API
+
+
+5. Apa itu Function Stored Procedure ?
